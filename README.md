@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hello! I'm Mariana :)
 🎓 Undergraduate
+<div>
 I study Systems Analysis and Development and I’m interested in entering the job market aiming to work in the Software Development area.
 <div>
   <a href="https://github.com/Mariana02Santos">
