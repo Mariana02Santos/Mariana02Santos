@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 ## Hello! I'm Mariana :)
 🎓 Undergraduate
 <div>
-I study Systems Analysis and Development and I’m interested in entering the job market aiming to work in the Software Development area.
+I study Computer Science and I aim to work with Software Development.
 <div>
   <a href="https://github.com/Mariana02Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana02Santos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
