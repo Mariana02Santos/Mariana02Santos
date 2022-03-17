@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 <div>
 I study Computer Science and I aim to work with Software Development.
 <div>
+Eu estudo Ciência da Computação e meu objetivo é trabalhar com Desenvolvimento de Softwares.
+<div>
   <a href="https://github.com/Mariana02Santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana02Santos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana02Santos&layout=compact&langs_count=7&theme=radical"/>
